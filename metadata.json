@@ -1,0 +1,6 @@
+{
+  "name": "NeonVault E-Commerce",
+  "description": "Modern responsive e-commerce web application featuring cyber-neon aesthetics, live filtering, full cart management, mock checkout, and user account portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
